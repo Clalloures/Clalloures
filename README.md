@@ -1,11 +1,16 @@
 ###  Seja bem vindo ao meu mundo👋
 
+
+Código sobre SVM  ![](https://github.com/Clalloures/Machine-Learning/blob/master/Simple_SVM.ipynb)
+
+
 <!--
 **Clalloures/Clalloures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Código sobre SVM 
 Here are some ideas to get you started: ![](https://github.com/Clalloures/Machine-Learning/blob/master/Simple_SVM.ipynb)
 
+
+<!--
+**Clalloures/Clalloures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
