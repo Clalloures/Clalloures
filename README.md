@@ -1,7 +1,7 @@
 ###  Seja bem vindo ao meu mundo👋
 
 
-Código sobre SVM  ![](https://github.com/Clalloures/Machine-Learning/blob/master/Simple_SVM.ipynb)
+Código sobre SVM  ![Aqui](https://github.com/Clalloures/Machine-Learning/blob/master/Simple_SVM.ipynb)
 
 
 <!--
