@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="https://instagram.com/clarissalimatech/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/clarissa-lima-4a26b3149/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/clarissalimaloures"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/linkedin.png?raw=true"></a>
 <a href="https://www.youtube.com/channel/UCG_sgEqK2LxMa7qCmmTFnVg/video"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/youtube.png?raw=true"></a>
 </p>
 
