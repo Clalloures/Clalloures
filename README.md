@@ -6,35 +6,59 @@
 <a href="https://www.youtube.com/channel/UCG_sgEqK2LxMa7qCmmTFnVg/video"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/youtube.png?raw=true"></a>
 </p>
 
-Hey there 👋,
+# Clarissa Lima
 
-Eu crio conteúdos de Visão Computacional e Machine Learning. Tenho paixão por aprender e compartilhar meus conhecimentos com outros. Você pode me acompanhar pelo Instagram [@clarissalimatech](https://www.instagram.com/clarissalimatech/) ou pelo Youtube [Clarissa Lima Tech](https://www.youtube.com/channel/UCG_sgEqK2LxMa7qCmmTFnVg/videos). Se você achar o conteúdo interessante se sinta livre para me mandar feedbacks pelo Instagram, ou outras redes sociais. 
+🎓 Mestranda em Inteligência Artificial na UFMG  
+💼 Data Scientist | Researcher em IA Generativa  
+📍 Belo Horizonte, Brasil  
+🌐 [LinkedIn](https://www.linkedin.com/in/clarissalimaloures) | [Instagram @clarissalimatech](https://www.instagram.com/clarissalimatech) | [YouTube Clarissa Lima Tech](https://www.youtube.com/@clarissalimatech)
 
-### Posts ⚡
+---
 
-Eu estou postando regurlamente no Medium e futuramente no meu blog 😄. 
+## 🧬 Bio
 
-Escrevo sobre assuntos de **Machine Learning**, **Deep Learning** e **Visão Computacional**, coisas que mentoro e assuntos que estou estudando. Sempre tem posts novos por lá !
+Sou Cientista de Dados com foco em Machine Learning, Visão Computacional e Geração de Dados Sintéticos. Atualmente, pesquiso o uso de imagens sintéticas para melhorar modelos de IA, explorando temas como autenticidade de obras de arte, dados escassos e modelos generativos.
 
-Código sobre SVM [Aqui](https://github.com/Clalloures/Machine-Learning/blob/master/Simple_SVM.ipynb)
+Tenho paixão por compartilhar conhecimento de forma acessível — seja através de mentorias, vídeos ou artigos técnicos. Além do trabalho de pesquisa, atuo como Data Scientist na indústria, unindo prática e teoria para entregar soluções robustas e criativas.
 
+---
 
+## 🌟 Acompanhe meus conteúdos
 
-<!--
-* Colocar 
-**Clalloures/Clalloures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: ![](https://github.com/Clalloures/Machine-Learning/blob/master/Simple_SVM.ipynb)
+- 📸 **Instagram**: Dicas rápidas e bastidores do dia a dia na pesquisa e na indústria [@clarissalimatech](https://www.instagram.com/clarissalimatech)  
+- 📹 **YouTube**: Aulas, tutoriais e conversas sobre IA no [Clarissa Lima Tech](https://www.youtube.com/channel/UCG_sgEqK2LxMa7qCmmTFnVg/video)  
+- ✍️ **Medium**: Artigos sobre temas como SVM, Diffusion Models, Visão Computacional e mais  
 
+---
 
-<!--
-**Clalloures/Clalloures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-...
--->
+## 🔬 Pesquisa atual
+
+> **Tema:** O que torna um dado sintético “bom” para treinamento de modelos de IA?  
+> Exploro o impacto de dados visuais sintéticos na performance de modelos supervisionados, especialmente quando há escassez de imagens reais. Investigo o papel de nuances, estilo, fidelidade semântica e realismo na geração de dados com *diffusion models*.
+
+---
+
+## 💻 Habilidades Técnicas
+
+**Linguagens de Programação**: Python, Shell Script  
+**Frameworks de IA**: PyTorch, HuggingFace Transformers, OpenCV, Diffusers  
+**Visão Computacional**: YOLO, OpenCV, Segmentação Semântica  
+**Geração de Dados**: Stable Diffusion, GANs, VAE  
+**Ferramentas de Ciência de Dados**: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
+**Engenharia de Dados**: SQL, Airflow, GCP, Docker  
+**Versionamento & Deploy**: Git, GitHub, Streamlit, Docker  
+**Infraestrutura e Experimentos**: Weights & Biases, SkyPilot, Google Cloud
+
+---
+
+## 📂 Publicações e Trabalhos
+
+- 🔍 *Autenticação de Obras de Arte com IA Generativa* (em andamento)  
+- 🧪 Experimentos com Reinforcement Learning para geração estruturada de texto  
+- 📈 Criação de Dashboards para controle financeiro pessoal com IA  
+
+---
+
+## 🤝 Vamos conversar?
+
+Se você curte IA, está pesquisando Visão Computacional ou apenas quer trocar ideia sobre projetos e carreira em tecnologia, me chama no Instagram ou LinkedIn. Feedbacks são sempre bem-vindos!
