@@ -49,7 +49,7 @@ Tenho paixão por compartilhar conhecimento de forma acessível — seja atravé
 **Versionamento & Deploy**: Git, GitHub, Streamlit, Docker  
 **Infraestrutura e Experimentos**: Weights & Biases, SkyPilot, Google Cloud
 
----
+<!-- ---
 
 ## 📂 Publicações e Trabalhos
 
@@ -57,7 +57,7 @@ Tenho paixão por compartilhar conhecimento de forma acessível — seja atravé
 - 🧪 Experimentos com Reinforcement Learning para geração estruturada de texto  
 - 📈 Criação de Dashboards para controle financeiro pessoal com IA  
 
----
+--- -->
 
 ## 🤝 Vamos conversar?
 
